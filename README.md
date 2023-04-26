@@ -1,5 +1,7 @@
 # Notify Teams - New PR
 
+test
+
 A GitHub Action that notifies of a new Pull Request via Microsoft Teams.
 
 See `action.yml` for required inputs.
