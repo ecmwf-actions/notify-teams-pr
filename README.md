@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository was moved to https://github.com/ecmwf/notify-teams-pr. Do not update!
+
 # Notify Teams - New PR
 
 A GitHub Action that notifies of a new Pull Request via Microsoft Teams.
